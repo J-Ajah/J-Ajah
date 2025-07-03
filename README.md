@@ -1,8 +1,8 @@
-# 👋 Hello there, I'm Justice Ajah!
+# Hello, I'm Justice Ajah!
 
-I'm a Software Engineer 
+A Software Engineer 
 
-Passionate about building scalable, high-performance applications, I specialize in web, mobile, and desktop development, with expertise in cloud architecture as a Certified Solutions Architect. I thrive in dynamic environments, constantly evolving with the latest industry innovations.
+Passionate in building scalable, high-performance applications, I specialize in web, mobile, and desktop development, with expertise in cloud architecture as a Certified Solutions Architect. I thrive in dynamic environments, constantly evolving with the latest industry innovations.
 
 Let's collaborate and bring your ideas to life.
 
